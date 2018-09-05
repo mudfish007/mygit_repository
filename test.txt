@@ -2,3 +2,4 @@ test branch
 add content
 add content 2
 master modified
+bug modified
