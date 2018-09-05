@@ -3,3 +3,4 @@ add content
 add content 2
 master modified
 bug modified
+master add modified
